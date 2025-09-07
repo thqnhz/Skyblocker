@@ -11,41 +11,44 @@
 Hypixel Skyblock Mod for Minecraft 1.21.8
 
 Installation guide is [here](https://github.com/SkyblockerMod/Skyblocker/wiki/installation) or use our [Modpack](https://modrinth.com/modpack/skyblocker-modpack)
+
 ## Features
 
 <details open>
-<summary>Features</summary>
+<summary><span style="font-size:1.25em; font-weight:bold;">Click on each section to expand it</span></summary>
 
-### Dungeon Features:
+<details close>
+<summary><span style="font-size:1.2em; font-weight:bold;">Dungeon Features</span></summary>
+
 - **Fancy Party Finder GUI**
 - **Secrets Waypoint Highlight:** Fully customizable
 - **Fancy Minimap & Score**
-    - Support for showing player heads
-    - Integration with Spirit Leap Overlay
+  - Support for showing player heads
+  - Integration with Spirit Leap Overlay
 - **Starred Mob Glow**
 - **Croesus Helper:**
-    - Highlight not opened chests
-    - Profit calculator
+  - Highlight not opened chests
+  - Profit calculator
 - **Puzzle Solver:**
-    - *Three Weirdos*
-    - *Blaze*
-    - *Creeper Beams*
-    - *Quiz - Ouro the Omniscient*
-    - *Tic Tac Toe*
-    - *Waterboard* (one flow)
-    - *Silverfish*
-    - *Ice Fill*
-    - *Boulder*
-    - *Simon Says*
-    - *Lights On*
-    - *Teleport Maze*
-    - Terminal (F7/M7):
-        - *Order*
-        - *Coloured Items*
-        - *Item Name*
-        - *Same Color*
-        - Incorrect click blocking
-        - Hides wrong items
+  - *Three Weirdos*
+  - *Blaze*
+  - *Creeper Beams*
+  - *Quiz - Ouro the Omniscient*
+  - *Tic Tac Toe*
+  - *Waterboard* (one flow)
+  - *Silverfish*
+  - *Ice Fill*
+  - *Boulder*
+  - *Simon Says*
+  - *Lights On*
+  - *Teleport Maze*
+  - Terminal (F7/M7):
+    - *Order*
+    - *Coloured Items*
+    - *Item Name*
+    - *Same Color*
+    - Incorrect click blocking
+    - Hides wrong items
 - **Rare Drop Special Effects**
 - **Chest Profit Calculator**
 - **F3/M3 Fire Freeze Staff Timer**
@@ -66,13 +69,16 @@ Installation guide is [here](https://github.com/SkyblockerMod/Skyblocker/wiki/in
 - **Hide Soulweaver Skulls**
 - **Dungeon Class-based player glow**
 - **Spirit Leap Overlay**
-    - Leap Keybinds
-    - Leap Message
+  - Leap Keybinds
+  - Leap Message
 - **Blood Camp Helper**
 - **Dungeon Splits Widget**
 - **Door Key Highlighter**
 
-### Foraging Features:
+</details>
+<details close>
+<summary><span style="font-size:1.2em; font-weight:bold;">Foraging Features</span></summary>
+
 - **Waypoints to forest nodes**
 - **Lushlilac and Sea Lumies Highlighters**
 - **Forest temple puzzle solver**
@@ -82,142 +88,175 @@ Installation guide is [here](https://github.com/SkyblockerMod/Skyblocker/wiki/in
   - Highlight Hideonleaves
 - **Hunting Box Shard Prices**
 - **Sweep Overlay**
-  - Disclaimer: Sweep Overlay is not accurate on Galatea due to technical limitations. The sweep formula is currently unknown.
+  >Disclaimer: Sweep Overlay is not accurate on Galatea due to technical limitations. The sweep formula is currently unknown.
 - **Moonglade Beacon Tuner Helper**
 - **Tree Break Progress HUD**
 - **Sweep Details HUD**
 
-### Kuudra Features:
+</details>
+<details close>
+<summary><span style="font-size:1.2em; font-weight:bold;">Kuudra FeaturesD</span></summary>
+
 - **Kuudra waypoints:**
-    - *Supplies*
-    - *Supply Piles*
-    - *Fuel Cells*
-    - *Safe Spots*
-    - *Pearl*
+  - *Supplies*
+  - *Supply Piles*
+  - *Fuel Cells*
+  - *Safe Spots*
+  - *Pearl*
 - **No arrow poison warning**
 - **Low arrow poison warning**
 - **Kuudra glow**
 - **Kuudra danger warning**
 
-### Crimson Isles:
+</details>
+<details close>
+<summary><span style="font-size:1.2em; font-weight:bold;">Crimson Isles</span></summary>
+
 - **Dojo helper**
 - **Option to increase fog radius**
 
-### Item and Armor Customization:
+</details>
+<details close>
+<summary><span style="font-size:1.2em; font-weight:bold;">Item and Armor Customization</span></summary>
+
 - *Item Renaming GUI*
 - **Fancy Armor Customization GUI**
-    - *Custom Armor Dye Colors*
-    - *Custom Armor Trims*
-    - *Custom Animated Dyes*
-    - *Custom Head Textures*
+  - *Custom Armor Dye Colors*
+  - *Custom Armor Trims*
+  - *Custom Animated Dyes*
+  - *Custom Head Textures*
 
-### Health and Status Bars:
+</details>
+<details close>
+<summary><span style="font-size:1.2em; font-weight:bold;">Health and Status Bars</span></summary>
+
 - **Bars:**
-    - *Health and absorption*
-    - *Mana*
-    - *Defense*
-    - *XP*
-    - *Speed*
-    - *Oxygen*
+  - *Health and absorption*
+  - *Mana*
+  - *Defense*
+  - *XP*
+  - *Speed*
+  - *Oxygen*
 - **Vanilla health/xp and fancy bar shown in parallel**
 - Place the bars on anchors or anywhere on screen
 
-### Profile Viewer:
+</details>
+<details close>
+<summary><span style="font-size:1.2em; font-weight:bold;">Profile Viewer</span></summary>
+
 - **Skills**
 - **Slayer**
 - **Catacombs**
 - **Container:**
-    - Inventory
-    - Enderchest
-    - Backpack
-    - Wardrobe
-    - Pets
-    - Accessory Bag
+  - Inventory
+  - Enderchest
+  - Backpack
+  - Wardrobe
+  - Pets
+  - Accessory Bag
 - **Collections**
 - **Networth Calculation**
 
-### Dwarven Mines / Crystal Hollows / Glacite Mining:
+</details>
+<details close>
+<summary><span style="font-size:1.2em; font-weight:bold;">Dwarven Mines / Crystal Hollows / Glacite Mining</span></summary>
+
 - **Dwarven Mines:**
-    - Solver:
-        - Fetchur
-        - Puzzler
-    - Unbreakable carpet highlighter
+  - Solver:
+    - Fetchur
+    - Puzzler
+  - Unbreakable carpet highlighter
 - **Crystal Hollows:**
-    - Crystal Hollows Map:
-        - *Shows players location in Crystal Hollows*
-        - *Highlights important waypoints in Crystal Hollows*
-    - Crystal Hollows Waypoints:
-        - *Shows waypoints for special locations*
-        - *Find locations in chat messages*
-        - *Share waypoints*
-    - Metal detector helper
-    - Auto-detect waypoint from chat for example when talking to king
-    - Nucleus waypoints
-    - Wishing compass helper
-    - Treasure Chest Highlighter
-    - Crystal Waypoints server-sided sharing via WebSocket
+  - Crystal Hollows Map:
+    - *Shows players location in Crystal Hollows*
+    - *Highlights important waypoints in Crystal Hollows*
+  - Crystal Hollows Waypoints:
+    - *Shows waypoints for special locations*
+    - *Find locations in chat messages*
+    - *Share waypoints*
+  - Metal detector helper
+  - Auto-detect waypoint from chat for example when talking to king
+  - Nucleus waypoints
+  - Wishing compass helper
+  - Treasure Chest Highlighter
+  - Crystal Waypoints server-sided sharing via WebSocket
 - **Glacite Tunnels:**
-    - *Cold Overlay*
-    - *Corpse Finder*
-    - *Corpse profit tracker*
-    - *Fossil Solver*
+  - *Cold Overlay*
+  - *Corpse Finder*
+  - *Corpse profit tracker*
+  - *Fossil Solver*
 - **Commission HUD:**
-    - *Provides information on Dwarven Mines / Crystal Hollows / Glacite Mining quests*
+  - *Provides information on Dwarven Mines / Crystal Hollows / Glacite Mining quests*
 - **Powder HUD**
 - **Ordered Waypoints**
-    - Basic ordered waypoint commands
+  - Basic ordered waypoint commands
 
-### Rift Features:
+</details>
+<details close>
+<summary><span style="font-size:1.2em; font-weight:bold;">Rift Features</span></summary>
+
 - **Mirrorverse Waypoints**
 - **Enigma soul waypoint**
 - **Blobbercysts Glow**
 
-### Spider's Den Features:
+</details>
+<details close>
+<summary><span style="font-size:1.2em; font-weight:bold;">Spider's Den</span></summary>
+
 - **Hidden Relic Helper**
 
-### Slayer Helper:
-- **Vampire:**
-    - Effigy Waypoints
-    - Healing Melon Indicator
-    - Twinclaws Ice Indicator
-    - Steak Stake Indicator
-- **Enderman:**
-    - Beacon Highlighting
-    - Yang Glyph Notification
-    - Nukekubi Head Highlighting
-    - Laser phase Timer
-- **Blaze Slayer:**
-    - Attunement highlighting
-    - Fire Pillar Countdown Notifiications
-- **General:**
-    - Bossbars
-    - Slayer HUD
-    - Boss slain time
-    - Personal Best slain time
-    - Boss and MiniBoss spawn alert
-    - Mute Enderman sounds
-    - Slayer (Mini)Bosses Highlighting
-    - Glow Effect Slayer Mob Highlighting
+</details>
+<details close>
+<summary><span style="font-size:1.2em; font-weight:bold;">Slayer Helper</span></summary>
 
-### Garden Features:
+- **Vampire:**
+  - Effigy Waypoints
+  - Healing Melon Indicator
+  - Twinclaws Ice Indicator
+  - Steak Stake Indicator
+- **Enderman:**
+  - Beacon Highlighting
+  - Yang Glyph Notification
+  - Nukekubi Head Highlighting
+  - Laser phase Timer
+- **Blaze Slayer:**
+  - Attunement highlighting
+  - Fire Pillar Countdown Notifiications
+- **General:**
+  - Bossbars
+  - Slayer HUD
+  - Boss slain time
+  - Personal Best slain time
+  - Boss and MiniBoss spawn alert
+  - Mute Enderman sounds
+  - Slayer (Mini)Bosses Highlighting
+  - Glow Effect Slayer Mob Highlighting
+
+</details>
+<details close>
+<summary><span style="font-size:1.2em; font-weight:bold;">Garden Features</span></summary>
+
 - **Farming HUD:**
-    - Counter
-    - Crops/min
-    - Coins/h
-    - Blocks/s
-    - Farming Level
-    - Farming XP/h
-    - Yaw and Pitch
+  - Counter
+  - Crops/min
+  - Coins/h
+  - Blocks/s
+  - Farming Level
+  - Farming XP/h
+  - Yaw and Pitch
 - **Visitor Helper:**
-    - Buy items that visitors require from bazaar by clicking the text
-    - Copy amount to clipboard
+  - Buy items that visitors require from bazaar by clicking the text
+  - Copy amount to clipboard
 - **Garden Plots Widget**
 - **Speed Presets (Rancher's Boots)**
 - **Disable title and chat messages for Melon/Pumpkin Dicer**
 - **Basic garden mouse locking feature (set mouse sensitivity to 0)**
 - **Pest Highlighter**
 
-### Visual Enhancements:
+</details>
+<details close>
+<summary><span style="font-size:1.2em; font-weight:bold;">Visual Enhancements</span></summary>
+
 - **Smooth AOTE**
 - **Compact damage**
 - **Waypoints for commissions in dwarven mines and glacite tunnels**
@@ -227,18 +266,18 @@ Installation guide is [here](https://github.com/SkyblockerMod/Skyblocker/wiki/in
 - **Personal Compactor/Deletor Preview**
 - **Hide Fake Players in Social Interactions Screen**
 - **Item Rarity Backgrounds:**
-    - Circle or Square
+  - Circle or Square
 - **Item Cooldown Display**
 - **Configure Fire-Overlay Height**
 - **Configure night vision strength**
 - **End HUD Widget:**
-    - Zealots:
-        - *Since last eye*
-        - *Total zealots kills*
-        - *Avg kills per eye*
-    - Endstone Protector:
-        - *stage*
-        - *Location*
+  - Zealots:
+    - *Since last eye*
+    - *Total zealots kills*
+    - *Avg kills per eye*
+  - Endstone Protector:
+    - *stage*
+    - *Location*
 - **Ender Nodes Helper**
 - **Powder mining tracker**
 - **Special Effects for rare dye drops**
@@ -247,55 +286,58 @@ Installation guide is [here](https://github.com/SkyblockerMod/Skyblocker/wiki/in
 - **Museum HUD**
 - **Gyrokinetic Wand Overlay**
 
-### User Interface Enhancements:
+</details>
+<details close>
+<summary><span style="font-size:1.2em; font-weight:bold;">User Interface Enhancements</span></summary>
+
 - **Equipment in inventory**
 - **Search overlays for bz and ah**
 - **Bazaar Quick Quantities**
 - **Slot Text:**
-    - *Attribute level*
-    - *Catacombs level*
-    - *Collection level*
-    - *Enchantment book level*
-    - *Minion level*
-    - *Pet level*
-    - *Potion level*
-    - *Prehistoric egg blocks walked*
-    - *Rancher's boots speed cap*
-    - *Skill level*
-    - *Skyblock level*
-    - *Essence Shop*
-    - *Your Essence*
-    - *Power Stone Guide*
-    - *Stats Tuning*
-    - *Collection*
-    - *Community Shop*
-    - *Bazaar*
-    - *Evolving Item*
-    - *New Year Cake*
-    - *Wardrobe slot*
-    - *Enchantment abbreviations*
-    - *Choose Pet*
-    - *Skyblock Guide*
-    - *HOTM*
-    - *HOTF*
-    - *Bestiary*
+  - *Attribute level*
+  - *Catacombs level*
+  - *Collection level*
+  - *Enchantment book level*
+  - *Minion level*
+  - *Pet level*
+  - *Potion level*
+  - *Prehistoric egg blocks walked*
+  - *Rancher's boots speed cap*
+  - *Skill level*
+  - *Skyblock level*
+  - *Essence Shop*
+  - *Your Essence*
+  - *Power Stone Guide*
+  - *Stats Tuning*
+  - *Collection*
+  - *Community Shop*
+  - *Bazaar*
+  - *Evolving Item*
+  - *New Year Cake*
+  - *Wardrobe slot*
+  - *Enchantment abbreviations*
+  - *Choose Pet*
+  - *Skyblock Guide*
+  - *HOTM*
+  - *HOTF*
+  - *Bestiary*
 - **Drill Fuel and Pickonimbus 2000 in Item Durability Bar**
 - **Hotbar Slot Lock Keybind:** Select the hotbar slot you want to lock/unlock and press the lock button.
 - **Item Tooltip:** (Provides information on)
-    - *NPC Sell Prices*
-    - *Motes Prices*
-    - *Bazaar (average, lowest bin)*
-    - *Auction House*
-    - *Museum*
-    - *Exotic Armor Identifier*
-    - *Item Quality*
-    - *Accessories Helper*
-    - *Craft Cost*
-    - *Essence Shop Price*
-    - *True HEX display for dye items*
-    - *Estimated Item Value*
-    - *Skyblock ID*
-    - *Bazaar Reorder Helper*
+  - *NPC Sell Prices*
+  - *Motes Prices*
+  - *Bazaar (average, lowest bin)*
+  - *Auction House*
+  - *Museum*
+  - *Exotic Armor Identifier*
+  - *Item Quality*
+  - *Accessories Helper*
+  - *Craft Cost*
+  - *Essence Shop Price*
+  - *True HEX display for dye items*
+  - *Estimated Item Value*
+  - *Skyblock ID*
+  - *Bazaar Reorder Helper*
 - **Quicknav:** (Fully customizeable) Fast navigation between pets, armor, enderchest, skill, collection, crafting, enchant, anvil, warp dungeon, and warp hub.
 - **Recipe Book:** Lists all Skyblock items in the vanilla recipe book, allowing you to see the recipe of the item.
   - Crafting
@@ -311,42 +353,51 @@ Installation guide is [here](https://github.com/SkyblockerMod/Skyblocker/wiki/in
 - **legacy attribute background**
 - **Sack Message Prices**
 
-### Barn Features:
-- **Barn Solver:**
-    - *Treasure Hunter*
-    - *Hungry Hiker*
-    - *Glowing Mushroom Highlighter*
+</details>
+<details close>
+<summary><span style="font-size:1.2em; font-weight:bold;">Barn Features</span></summary>
 
-### Chat Features:
+- **Barn Solver:**
+  - *Treasure Hunter*
+  - *Hungry Hiker*
+  - *Glowing Mushroom Highlighter*
+
+</details>
+<details close>
+<summary><span style="font-size:1.2em; font-weight:bold;">Chat Features</span></summary>
+
 - **Custom Chat Rules**
 - **Autocomplete**
-    - *Warp command*
-    - *Sack Item*
-    - *Viewstash*
-    - *Join Instance, Join Dungeon, Join Kuudra*
-    - *RNG Meter*
+  - *Warp command*
+  - *Sack Item*
+  - *Viewstash*
+  - *Join Instance, Join Dungeon, Join Kuudra*
+  - *RNG Meter*
 - **Hide Messages:**
-    - *Ability Cooldown*
-    - *Heal*
-    - *Aspect of the End (AOTE)*
-    - *Implosion*
-    - *Molten Wave*
-    - *`/show command`*
-    - *Teleport Pad Messages*
-    - *Sky Mall*
-    - *Lottery*
-    - *Dungeonbreaker*
+  - *Ability Cooldown*
+  - *Heal*
+  - *Aspect of the End (AOTE)*
+  - *Implosion*
+  - *Molten Wave*
+  - *`/show command`*
+  - *Teleport Pad Messages*
+  - *Sky Mall*
+  - *Lottery*
+  - *Dungeonbreaker*
 
-### Miscellaneous Helpers:
+</details>
+<details close>
+<summary><span style="font-size:1.2em; font-weight:bold;">Miscellaneous Helpers</span></summary>
+
 - **Experiments Solvers**
-    - Incorrect Click Blocker
+  - Incorrect Click Blocker
 - **Fishing:**
-    - Helper (Includes sound notifications)
-    - Fishing rod timer (change color after 20 seconds)
-    - Hide other rods
-    - Ingame fishing hook timer display
+  - Helper (Includes sound notifications)
+  - Fishing rod timer (change color after 20 seconds)
+  - Hide other rods
+  - Ingame fishing hook timer display
 - **Mythological Ritual Helper**
-    - Estimated Diana burrow pos
+  - Estimated Diana burrow pos
 - **Chocolate factory Helper**
 - **Jerry timer**
 - **Wardrobe helper based on hotbar keybinds**
@@ -356,7 +407,10 @@ Installation guide is [here](https://github.com/SkyblockerMod/Skyblocker/wiki/in
 - **Raffle task highlighter**
 - **Disable All Command**
 
-### Miscellaneous Features:
+</details>
+<details close>
+<summary><span style="font-size:1.2em; font-weight:bold;">Miscellaneous Features</span></summary>
+
 - **[Roughly Enough Items (REI)](https://modrinth.com/mod/rei), [EMI](https://modrinth.com/mod/emi) and [JEI](https://modrinth.com/mod/jei/) Support**
   - Crafting
   - Forge
@@ -379,11 +433,11 @@ Installation guide is [here](https://github.com/SkyblockerMod/Skyblocker/wiki/in
 - **Copy Underbid Price to Clipboard**
 - **Resource pack compatibility**
 - **Shortcuts**
-    - Command Shortcuts
-    - Keybind Shortcuts
+  - Command Shortcuts
+  - Keybind Shortcuts
 - **Config Backups**
 
-
+</details>
 </details>
 
 ___
@@ -402,6 +456,7 @@ ___
 | /skyblocker   dungeons secrets | addWaypoint \| addWaypointRelatively \[pos\] \[secretIndex\] \[category\] \[name\] |                                                                                                                                                                                                                                                                                           |
 | /skyblocker   dungeons secrets |                 removeWaypoint \| removeWaypointRelatively \[pos\]                 |                                                                                                                                                                                                                                                                                           |
 | /skyblocker custom animatedDye |         \[\<hex1\>\] \<hex2\> \<samples\> \<cycleBack\> \[\<tickDelay\>\]          | apply a custom animated dye to your armour <br/>  Ex: /skyblocker custom animatedDye 0061ff 60efff 10 true 4                                                                                                                                                                              |
+
 ---
 
 ## Images
@@ -909,7 +964,7 @@ We thank all our translators for their valuable support!
 | Russian               | [HyperSoop](https://github.com/HyperSoop), [CrimsonIsle](https://github.com/CrimsonIsle), [Ghost-3](https://github.com/Ghost-3), [wilson-wtf](https://github.com/wilson-wtf), [R2kip](https://github.com/R2kip), [Kolobok125040](https://github.com/Kolobok125040), [BLACKUM](https://github.com/BLACKUM), [CheckMeJava](https://github.com/CheckMeJava), [TheMychenik](https://github.com/TheMychenik), [LacticWhale](https://github.com/LacticWhale), [iMekky](https://github.com/iMekky), [anysad](https://github.com/anysad), [Vanja](https://github.com/Vanja), [Fiarr4ikDev](https://github.com/Fiarr4ikDev) |
 | French                | [edgarogh](https://github.com/edgarogh), [Julienraptor01](https://github.com/Julienraptor01), [viciscat](https://github.com/viciscat), [Kiverty](https://github.com/Kiverty), [maDU59](https://github.com/maDU59), [Kaelig2102](https://github.com/Kaelig2102), [SimplSurro](https://github.com/SimplSurro), [Siroz555](https://github.com/Siroz555), [TheGallium](https://github.com/TheGallium), [mattheov](https://github.com/mattheov), [Curzeed](https://github.com/Curzeed)                                                                                                                                  |
 | Japanese              | [hirochisan](https://github.com/hirochisan), [AC19970](https://github.com/AC19970), [WhyHina](https://github.com/WhyHina), [tdnpgm](https://github.com/tdnpgm), [aoipop0117](https://github.com/aoipop0117), [tokumeika](https://github.com/tokumeika)                                                                                                                                                                                                                                                                                                                                                             |
-| Chinese (Traditional) | [catandA](https://github.com/catandA), [AC19970](https://github.com/AC19970)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 
+| Chinese (Traditional) | [catandA](https://github.com/catandA), [AC19970](https://github.com/AC19970)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Chinese (Simplified)  | [catandA](https://github.com/catandA), [PumpkinXD](https://github.com/PumpkinXD), [user123321111](https://github.com/user123321111), [sunnytia](https://github.com/sunnytia), [AC19970](https://github.com/AC19970), [x-yingcan-x](https://github.com/x-yingcan-x), [xyx986](https://github.com/xyx986), [Typogalaxy](https://github.com/Typogalaxy), [SimplSurro](https://github.com/SimplSurro), [layou233](https://github.com/layou233), [Launium](https://github.com/Launium), [HenryXiaoYang](https://github.com/HenryXiaoYang)                                                                               |
 | Korean                | [lantice3720](https://github.com/lantice3720), [lanthanide](https://github.com/lanthanide), [DaysSky](https://github.com/DaysSky)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Spanish               | [IngeSebastian](https://github.com/IngeSebastian), [NickdaWizIsDev](https://github.com/NickdaWizIsDev), [Teyxos](https://github.com/Teyxos), [Dopjs](https://github.com/Dopjs), [urdaknows](https://github.com/urdaknows), [Fjrtyy](https://github.com/Fjrtyy)                                                                                                                                                                                                                                                                                                                                                     |
@@ -921,7 +976,7 @@ We thank all our translators for their valuable support!
 | Dutch                 | [mitch030504](https://github.com/mitch030504), [Westsi](https://github.com/Westsi)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Italian               | [Vricken](https://github.com/Vricken), [Bloo02](https://github.com/Bloo02)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | Polish                | [danehcan](https://github.com/danehcan)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Vietnamese            | [ThanhZ](https://github.com/ThanhZ), [HuydinhVN](https://github.com/HuydinhVN)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Vietnamese            | [ThqnhZ](https://github.com/ThqnhZ), [HuydinhVN](https://github.com/HuydinhVN)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | Danish                | [NugzZ3D](https://github.com/NugzZ3D)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | Swedish               | [Ski11](https://github.com/Ski11)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Hungarian             | [Toastie](https://github.com/Toastie), [min-bal](https://github.com/min-bal)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
